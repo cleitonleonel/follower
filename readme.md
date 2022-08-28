@@ -1,4 +1,4 @@
-# _Follow_
+# _Follower_
 
 <img src="https://github.com/cleitonleonel/follower/blob/master/follow.jpg?raw=true" alt="follow" width="200"/>
 
