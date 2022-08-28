@@ -1,6 +1,6 @@
 # _Follow_
 
-<img src="https://github.com/cleitonleonel/follow/blob/master/follow.jpg?raw=true" alt="follow" width="200"/>
+<img src="https://github.com/cleitonleonel/follower/blob/master/follow.jpg?raw=true" alt="follow" width="200"/>
 
 Siga os sinais de uma sala de sua preferência e os automatize com esse sistema...
 
@@ -36,8 +36,8 @@ Se não pode ou não deseja contribuir, peço que pelo menos dê uma ⭐ para o 
 # Instalação e uso:
 
 ```shell
-git clone https://github.com/cleitonleonel/follow.git
-cd follow
+git clone https://github.com/cleitonleonel/follower.git
+cd follower
 pip3 install -r requirements.txt
 python3 follow.py
 ```
